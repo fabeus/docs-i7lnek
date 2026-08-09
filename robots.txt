@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-962qsr.1casino.co.nz/sitemap.xml
